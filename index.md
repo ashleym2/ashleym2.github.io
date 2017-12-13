@@ -5,6 +5,7 @@ My specific academic interests include systems biology and drug delivery.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Image](https://octodex.github.com/images/yaktocat.png)
 
 ```markdown
 Syntax highlighted code block
