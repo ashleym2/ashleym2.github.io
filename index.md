@@ -1,4 +1,4 @@
-## I am an aspiring Bioengineer a the University of Illinois at Urbana-Champaign
+## I Am An Aspiring Bioengineer At The University Of Illinois At Urbana-Champaign
 
 My specific academic interests include systems biology and drug delivery.
 
@@ -31,4 +31,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact Me
 
-Feel free to contact me at [ashleym2@illinois.edu]!
+Feel free to contact me at [documentation]ashleym2@illinois.edu.
