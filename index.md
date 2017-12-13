@@ -7,28 +7,17 @@ My specific academic interests include systems biology and drug delivery.
 You can check out my resume below:
 [resume](file:///C:/Users/ashleym2/AppData/Local/Temp/Temp1_resume_Mitchell,Ashley.zip/resume_MitchellAshley.html)
 
-```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 
-### Jekyll Themes
+### Fun Facts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashleym2/ashleym2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I love music. I play the flute and enjoy singing in my free time. I hope to study abroad in Spain sometime during my undergraduate
+experience. My favorite shows include Doctor Who and The Office.
 
 ### Contact Me
 
