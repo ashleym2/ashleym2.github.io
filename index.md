@@ -6,9 +6,6 @@ You can check out my resume below:
 
 [resume](file:///C:/Users/ashleym2/AppData/Local/Temp/Temp1_resume_Mitchell,Ashley.zip/resume_MitchellAshley.html)
 
-[Image](tardis)
-[[https://github.com/ashleym2/repository/blob/master/img/octocat.png|alt=octocat]]
-
 ### Fun Facts
 
 I love music. I play the flute and enjoy singing in my free time. I hope to study abroad in Spain sometime during my undergraduate
