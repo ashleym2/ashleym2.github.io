@@ -4,8 +4,8 @@ My specific academic interests include systems biology and drug delivery.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-[Image](https://octodex.github.com/images/yaktocat.png)
+You can check out my resume below:
+[resume](file:///C:/Users/ashleym2/AppData/Local/Temp/Temp1_resume_Mitchell,Ashley.zip/resume_MitchellAshley.html)
 
 ```markdown
 Syntax highlighted code block
