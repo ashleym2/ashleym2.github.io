@@ -2,18 +2,12 @@
 
 My specific academic interests include systems biology and drug delivery.
 
-### Markdown
-
 You can check out my resume below:
 
 [resume](file:///C:/Users/ashleym2/AppData/Local/Temp/Temp1_resume_Mitchell,Ashley.zip/resume_MitchellAshley.html)
 
-Syntax highlighted code block
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and [Image](tardis)
-
+[Image](tardis)
+[[https://github.com/ashleym2/repository/blob/master/img/octocat.png|alt=octocat]]
 
 ### Fun Facts
 
